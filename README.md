@@ -1,7 +1,8 @@
 # SwiftUI-TabView-iPad
 SwiftUI TabView bottom button only iPad swift playground
 # The first part
-![IMG_1144](https://github.com/S-way520/SwiftUI-TabView-iPad/assets/95877651/798bcf9f-2c37-4048-a793-cd51de9e1fa4)
+![IMG_1229](https://github.com/S-way520/SwiftUI-TabView-iPad/assets/95877651/7652db7d-5c0c-4a62-9712-458660a01e0b)
+
 # The second part
 Code file 1
 ```swift
